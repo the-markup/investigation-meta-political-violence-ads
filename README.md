@@ -1,6 +1,6 @@
 # How We Counted What Meta Made From Ads After Violent News Events
 
-This repo contains data for our story "[How Meta Brings in Millions Off Political Violence](https://themarkup.org/)."
+This repo contains data for our story "[How Meta Brings in Millions Off Political Violence](https://themarkup.org/investigations/2024/10/04/how-meta-brings-in-millions-off-political-violence)."
 
 
 ## Methodology
